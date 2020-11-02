@@ -38,5 +38,5 @@ At least eight (8) data quality issues and two (2) tidiness issues are detected,
 At least one (1) labeled visualization is produced in the Jupyter Notebook using Python’s plotting libraries.
 Report
 ## Two reports:
-- Wwrangling efforts are briefly described in wrangle_report.pdf.
+- Wrangling efforts are briefly described in wrangle_report.pdf.
 - The three (3) or more insights the student found are communicated in act_report.pdf including visualization.
